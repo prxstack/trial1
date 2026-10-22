@@ -1,0 +1,11 @@
+id,name,salary,address,department,joined_date
+1,Amit,50000,Delhi,IT,2025-01-02
+2,Neha,60000,Mumbai,Sales,2025-01-03
+3,Ravi,55000,Bangalore,IT,2025-01-04
+4,Pooja,70000,Delhi,Sales,2025-01-05
+5,Arjun,65000,Mumbai,Sales,2025-01-06
+6,Kiran,48000,Chennai,IT,2025-01-07
+7,Meena,52000,Bangalore,Marketing,2025-01-08
+8,Rahul,58000,Delhi,IT,2025-01-09
+9,Anjali,62000,Chennai,Marketing,2025-01-10
+10,Vikram,54000,Mumbai,Sales,2025-01-11
